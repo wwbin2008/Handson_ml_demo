@@ -1,2 +1,2 @@
-# Handson_ml_demo
+# Handson_ml_demo and some notes
 implementation of handson ml
